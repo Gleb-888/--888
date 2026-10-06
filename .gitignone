@@ -1,0 +1,6 @@
+_pycache_/
+*.рус
+vk_tasks.json
+vk_stats.json
+.env
+venv/
